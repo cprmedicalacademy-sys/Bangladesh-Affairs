@@ -1,0 +1,6 @@
+{
+  "name": "CPR Medical Academy - Special BCS Exam Portal",
+  "description": "Official Special BCS Crystal Batch online examination and review portal for CPR Medical Academy with negative marking, timed testing, and detailed answer analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
